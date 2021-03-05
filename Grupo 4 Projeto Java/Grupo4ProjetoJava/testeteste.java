@@ -1,4 +1,4 @@
-package Grupo4ProgetoJava;
+package Grupo4ProjetoJava;
 
 public class testeteste {
 public static void main(String[] args) {

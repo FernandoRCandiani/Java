@@ -1,4 +1,4 @@
-package Grupo4ProgetoJava;
+package Grupo4ProjetoJava;
 
 import java.util.Scanner;
 
